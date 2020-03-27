@@ -90,10 +90,10 @@ footer p {
 	color: #fff;	
 	text-align: center;
 }
-footer a:link { color: #698378; }
-footer a:visited { color: #698378; }
-footer a:hover { color: #a4cdbc; }
-footer a:active { color: #a4cdbc; }
+footer a:link { color: white; }
+footer a:visited { color: tan; }
+footer a:hover { color: grey; }
+footer a:active { color: black; }
 
 
 /* -------  Elements ------- */
