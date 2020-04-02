@@ -24,11 +24,6 @@ footer {
 	margin: auto;	
 }
 
-img {
- 	width: 100%;	
-}
-
-
 /* -------  Logo ------- */
 
 header h1 {
@@ -67,10 +62,6 @@ p, li {
     line-height: 26px;
 }
 
-ul {
- list-style-image: url('images/common/coffee-cup-icon.png');
-}
-
 a {
 	font-weight: 700;
 	text-decoration: none;	
@@ -102,10 +93,11 @@ img, iframe { border-radius: 8px;}
 
 iframe { border: 1px solid #403933;}
 
-hr { border-top: 2px dotted white;}
+hr { border-top: 2px ;}
 
-ul.coffee li {list-style-image: url('images/coffee-cup-icon.png'); }
-
+img.profilepicture{
+	width: 100% ;
+}
 /* -------  Spacers ------- */  
 
 .gap-sm {
